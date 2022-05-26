@@ -1,0 +1,55 @@
+==> Concepts
+- Pop culture
+- Politics
+- Red Pill/Manosphere/MGTOW
+
+==> Name Ideas
+- Privilege Biscuits
+- Culture Biscuits
+- Mainsplainers
+- Logic Culture
+- Culture Construct
+- Resocial
+- Culture Atlas
+- Manciety
+- Poptosis
+- Vipop (Viral Pop Culture)
+- Culture Buffet
+- Culture Chimp
+- Culture Crumbs
+- Community Cake
+
+	- Voting:
+		- Event 1:
+			- Round 1
+				- Culture Crumbs ==>  5
+				- Culture Buffet ==>  3
+				- Mainsplainers ==> 2
+				- Culture Construct ==>  3
+				- Manciety ==> 4
+				- Culture Atlas ==> 4
+				- Logic Culture ==> 2
+				- Culture Biscuits ==> 3
+				- Culture Chimp ==> 3
+			- Round 2
+				- Manciety ==>  8
+				- Culture Crumbs ==> 3
+					- Winner Place One ==> Manciety
+		- Event 2:
+			- Poptosis ==> 6
+			- Vipop ==> 5
+				- Winner Place Two ==> Poptosis
+		- Event 3:
+			- Privilege Biscuits ==> 12
+			- Resocial ==> 6
+			- Community Cake ==> 11
+				- Winner Place Three ==> Privilege Biscuits
+		- Event 4:
+			- Round 1
+				- Manciety ==> 11
+				- Poptosis ==> 11
+				- Privilege Biscuits ==> 7
+					- Round 2
+						- Manciety ==> 3
+						- Poptosis ==> 8
+							- Winner Winner Chicken Dinner ==> Poptosis
